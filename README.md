@@ -16,4 +16,5 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|
