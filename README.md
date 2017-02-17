@@ -22,4 +22,5 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
