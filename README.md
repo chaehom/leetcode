@@ -24,4 +24,5 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
