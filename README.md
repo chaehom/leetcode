@@ -26,4 +26,5 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
