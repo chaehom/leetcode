@@ -29,4 +29,5 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
