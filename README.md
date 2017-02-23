@@ -34,4 +34,5 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
