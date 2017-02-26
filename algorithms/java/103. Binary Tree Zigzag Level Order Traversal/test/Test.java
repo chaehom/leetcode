@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import java.util.List;
 
 /**
- * 102. Binary Tree Level Order Traversal
+ * 103. Binary Tree Zigzag Level Order Traversal
  * 
  * @author leo.ch
  * @since  2017-02-26
@@ -16,9 +16,9 @@ public class Test {
 		Solution solution = new Solution();
 		int[] treeNums = {3,9,20,-1,-1,15,7};
 		TreeNode root = makeBinaryTree(treeNums);
-		List<List<Integer>> ans = solution.levelOrder(root);
+		List<List<Integer>> ans = solution.zigzagLevelOrder(root);
 		int[][] actuals = listToArray(ans); 
-		int[][] expecteds = {{3}, {9, 20}, {15, 7}};
+		int[][] expecteds = {{3}, {20, 9}, {15, 7}};
 		assertArrayEquals(expecteds, actuals);
 	}
 
@@ -28,7 +28,7 @@ public class Test {
 		Solution solution = new Solution();
 		int[] treeNums = {3};
 		TreeNode root = makeBinaryTree(treeNums);
-		List<List<Integer>> ans = solution.levelOrder(root);
+		List<List<Integer>> ans = solution.zigzagLevelOrder(root);
 		int[][] actuals = listToArray(ans); 
 		int[][] expecteds = {{3}};
 		assertArrayEquals(expecteds, actuals);
@@ -40,9 +40,21 @@ public class Test {
 		Solution solution = new Solution();
 		int[] treeNums = {};
 		TreeNode root = makeBinaryTree(treeNums);
-		List<List<Integer>> ans = solution.levelOrder(root);
+		List<List<Integer>> ans = solution.zigzagLevelOrder(root);
 		int[][] actuals = listToArray(ans); 
 		int[][] expecteds = {};
+		assertArrayEquals(expecteds, actuals);
+	}
+	
+	@org.junit.Test
+	public void test4()
+	{
+		Solution solution = new Solution();
+		int[] treeNums = {1, 2, 3, 4, -1, -1, 5};
+		TreeNode root = makeBinaryTree(treeNums);
+		List<List<Integer>> ans = solution.zigzagLevelOrder(root);
+		int[][] actuals = listToArray(ans); 
+		int[][] expecteds = {{1}, {3, 2}, {4, 5}};
 		assertArrayEquals(expecteds, actuals);
 	}
 
