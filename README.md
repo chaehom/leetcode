@@ -43,4 +43,5 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
