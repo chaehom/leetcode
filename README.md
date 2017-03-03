@@ -47,4 +47,5 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
