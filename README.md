@@ -50,3 +50,4 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
+|382|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
