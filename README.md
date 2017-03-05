@@ -45,9 +45,10 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|
+|135|[Candy](https://leetcode.com/problems/candy/)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
-|382|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
