@@ -53,5 +53,6 @@
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
