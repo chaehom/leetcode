@@ -54,5 +54,6 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
