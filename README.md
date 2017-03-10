@@ -37,6 +37,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|
