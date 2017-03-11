@@ -35,6 +35,7 @@
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|
