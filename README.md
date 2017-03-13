@@ -64,5 +64,6 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
