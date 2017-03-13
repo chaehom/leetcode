@@ -65,3 +65,4 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
