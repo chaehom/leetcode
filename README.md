@@ -67,6 +67,7 @@
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|
