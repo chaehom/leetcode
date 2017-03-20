@@ -69,6 +69,7 @@
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|
