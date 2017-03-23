@@ -73,6 +73,7 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|
