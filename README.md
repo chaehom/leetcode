@@ -87,5 +87,6 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
