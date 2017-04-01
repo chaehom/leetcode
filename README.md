@@ -88,5 +88,6 @@
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
