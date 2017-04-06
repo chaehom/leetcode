@@ -94,5 +94,6 @@
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
