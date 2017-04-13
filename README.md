@@ -100,6 +100,7 @@
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|
