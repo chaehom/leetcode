@@ -103,5 +103,6 @@
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|
