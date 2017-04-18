@@ -107,3 +107,4 @@
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|
+|556|[Optimal Division](https://leetcode.com/problems/optimal-division/)|
