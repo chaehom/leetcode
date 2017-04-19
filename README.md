@@ -91,6 +91,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|
