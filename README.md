@@ -95,6 +95,7 @@
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|
